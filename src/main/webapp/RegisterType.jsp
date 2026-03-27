@@ -24,7 +24,7 @@
 
         header {
             background-color: lightblue;
-            background-image: url('head_login.jpg');
+          <%--  background-image: url('head_login.jpg'); --%>
             background-size: 10%;
             padding: 40px;
             display: flex;
@@ -124,7 +124,7 @@
         <br>
     </main>
     <footer>
-        <p>&copy; 2022 CDCMS. All rights reserved.</p>
+        <p>&copy; 2024 CDCMS. All rights reserved.</p>
     </footer>
 </body>
 

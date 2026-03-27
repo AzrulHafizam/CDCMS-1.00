@@ -39,7 +39,6 @@
             left: 0;
             width: 100%;
             height: 130%;
-            background-image: url('LogoSISPA2.png');
             background-size: 50px;
             filter: blur(2px);
             z-index: -1; /* Places the image behind other content */
@@ -51,7 +50,6 @@
 
             header {
                 background-color: lightblue;
-                background-image: url('BGHeader2.png');
                 background-size: 600px;
                 padding: 20px;
                 text-align: left;

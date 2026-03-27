@@ -17,11 +17,11 @@
         <style>
             body {
                 font-family: Arial, sans-serif;
-                background: blue;
+                background: steelblue;
                 margin: 0;
                 padding: 0;
                 overflow:auto;
-                background-image: url("bglogin.jpg");
+                //background-image: url("bglogin.jpg");
                 background-size: 100%;
             }
 

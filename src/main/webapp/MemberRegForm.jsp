@@ -30,7 +30,6 @@
 
             header {
                 background-color: lightblue;
-                background-image: url("head_login.jpg");
                 background-size: 10%;
                 padding: 40px;
                 display: flex;

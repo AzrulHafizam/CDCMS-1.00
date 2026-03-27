@@ -27,7 +27,6 @@
                 margin: 0;
                 padding: 0;
                 background-color:steelblue;
-                background-image: url('LogoSISPA2.png');
                 background-size: 50px;
             }
 
@@ -37,7 +36,6 @@
 
             header {
                 background-color: lightblue;
-                background-image: url('BGHeader2.png');
                 background-size: 600px;
                 padding: 20px;
                 text-align: left;
